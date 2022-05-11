@@ -1,0 +1,14 @@
+{
+  "port": 4000,
+  "jwtSecret": "appinion-api-widget-app",
+  "mongoString": "mongodb+srv://Alex:qwe123ewq321@appinion.ujpqh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "emailing": {
+    "host": "smtp.yandex.ru",
+    "port": 465,
+    "secure": true,
+    "auth": {
+      "user": "no-reply@appinion.digital",
+      "pass": "no-replyno-reply22"
+    }
+  }
+}
